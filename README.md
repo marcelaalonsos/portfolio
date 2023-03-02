@@ -1,10 +1,10 @@
-### Marcela Alonso Dev
+# Marcela Alonso Dev
 
 My personal portfolio website!
 
-# Tech stack
+## Tech stack
 
-Designed as a S.P.A. it features mostly frontend stacks including:
+Designed as a S.P.A. it's built with frontend stacks including:
 
 - React
 - CSS
@@ -17,9 +17,9 @@ And featuring libraries such as:
 - emailJS
 - propTypes
 
-# Deployment
+## Deployment
 
 - start and build scripts with react-scripts
 - to be deployed on Render
 
-# 2023 All Rights Reserved
+### 2023 | All Rights Reserved
